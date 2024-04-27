@@ -1,3 +1,5 @@
+// deploy this app when you are ready to deploy it in digitalOcean, etc
+
 require("dotenv").config();
 const express = require("express");
 const app = express();
